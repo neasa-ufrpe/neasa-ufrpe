@@ -1,6 +1,6 @@
 ## Núcleo de Economia Aplicada ao SemiÁrido 
 
-Perfil oficial do NEASA no GitHub
+Perfil oficial do NEASA no GitHub :bar_chart::chart_with_upwards_trend::books:
 
 
 <!--
